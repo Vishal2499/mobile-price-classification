@@ -65,4 +65,4 @@ if up:
 
         # Display Classification Report
         st.subheader("Detailed Classification Report")
-        st.text(classification_report(y, pred))
+        st.text(classification_report(y, pred))# Triggering Streamlit Cloud Rebuild
